@@ -5,7 +5,17 @@
     "version": "0.1",
     "icon": "https://teenxy.com/static/favicon/android-chrome-192x192.png",
     "type": "global",
-    "category": "movie",
+    "category": "18+ movie",
+    "disabled": false
+  },
+  {
+    "display_name": "XVideos",
+    "value": "xvideos",
+    "version": "0.1",
+    "icon": "https://assets-cdn77.xvideos-cdn.com/v3/img/skins/default/logo/xv.black.180.png",
+    "type": "global",
+    "category": "18+ movie",
     "disabled": false
   }
+    
 ]
