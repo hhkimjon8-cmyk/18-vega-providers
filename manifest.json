@@ -16,6 +16,15 @@
     "type": "global",
     "category": "18+ movie",
     "disabled": false
+  },
+  {
+    "display_name": "XNXX",
+    "value": "xnxx",
+    "version": "0.1",
+    "icon": "https://www.xnxx.com/apple-touch-icon.png",
+    "type": "global",
+    "category": "18+ movie",
+    "disabled": false
   }
     
 ]
