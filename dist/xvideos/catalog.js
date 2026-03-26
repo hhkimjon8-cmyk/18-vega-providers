@@ -1,1 +1,1 @@
-
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.genres=exports.catalog=void 0,exports.catalog=[{title:"New",filter:""},{title:"Best",filter:"c/AI-239"},{title:"Anime",filter:"?k=anime+pussy"}],exports.genres=[];

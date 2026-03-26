@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.getStream=void 0;const getStream=async function({link:url}){try{const stream=[];return stream.push({server:"xvideos",link:url,type:(null==url?void 0:url.split(".").pop())||"mkv"}),stream}catch(err){return[]}};exports.getStream=getStream;
