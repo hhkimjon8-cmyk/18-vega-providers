@@ -1,1 +1,1 @@
-
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.genres=exports.catalog=void 0,exports.catalog=[{title:"Latest",filter:""},{title:"18",filter:"categories/18-year-old"},{title:"Hentai",filter:"categories/hentai"},{title:"Northern",filter:"categories/chinese"}],exports.genres=[{title:"4K HEVC",filter:"/2160p-hevc"},{title:"HD 10bit",filter:"/1080p-10bit"},{title:"English Movies",filter:"/movies/english-movies"},{title:"Dual Audio",filter:"/movies/dual-audio-movies"}];
